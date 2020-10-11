@@ -3,5 +3,5 @@
  -[📝 Curso]: https://digitalinnovation.one/
  
  -[IMAGEM DA PÁGINA DESENVOLVIDA]
- <img src="img/instagram-celular">
+ <img src="Linguagens_Marcacao/img/instagram-celular">
 
